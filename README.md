@@ -7,6 +7,7 @@
 Alinx官方提供的ZYNQ镜像下载路径位于：SD卡恢复出厂状态.pdf<br>
 文件系统使用pynq官方2.4系统，下载PYNQ_Z1_pynq_2.4.img，相关链接如下https://github.com/Xilinx/PYNQ/releases <br>
 先将PYNQ_Z1_pynq_2.4.img烧录到SD卡，然后分别替换BOOT.bin文件和image.ub文件即可
+使用PYNQ过程中，如出现fail to open xlnk，请尝试sudo命令
 
 ## 文件介绍
 
